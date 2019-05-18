@@ -26,6 +26,7 @@
     C1 -> C2 = 4 units
     C2 -> C3 = 3 units
     
+    Fuel Cost not taken into consideration.
     Order can be given in whole quantity or in multiples of the weight of the product taking in consideration that the centers are all       wholesalers and give products in open quantity also(not in multiples of weights of the product).
     One can’t order quantity in decimal values like 23.32 units
 
